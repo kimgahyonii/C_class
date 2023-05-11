@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main() {
+	int a = 20;
+	int b = 0;
+
+	if (a < 10)
+	{
+		printf("a == b\n");
+	}
+	printf("a : %d, b : %d\n", a, b);
+
+	return 0;
+}
